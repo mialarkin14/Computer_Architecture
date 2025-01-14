@@ -6,7 +6,6 @@ Includes:
 
 * Simple, easy to read code with brief descriptions of each project
 * 80-90% Original Code
-* IN PROCESS OF UPDATING
 
 Does NOT Include:
 
